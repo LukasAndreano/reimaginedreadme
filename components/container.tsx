@@ -239,20 +239,6 @@ export const container = (
 				/>
 
 				{panelComponents}
-
-				{/* Deprecation notice */}
-				<g transform={`translate(${10}, ${height - 10})`}>
-					<text
-						className="contribution-stats remarks"
-						x="0"
-						y="0"
-						style={{ fontWeight: 'bold', fill: 'red' }}
-					>
-						Deprecation Notice: The reimaginedreadme project has been deprecated
-						and will shutdown on September 30th 2024 making it no longer
-						usable/visible on your profile.
-					</text>
-				</g>
 			</svg>
 		</>
 	)
