@@ -14,7 +14,7 @@ GitHub readme widgets are too seperated and you need to add 4 different widgets 
 
 ## How to install
 
-To create a custom widget we have a API route `https://myreadme.vercel.app/api/embed/YOURNAME` replacing yourname with well uh yourname.
+To create a custom widget we have a API route `https://reimaginedreadme-lilac.vercel.app/api/embed/YOURNAME` replacing yourname with well uh yourname.
 
 #### Adding Widgets (Populating your Widget)
 
