@@ -6,7 +6,8 @@
 
 GitHub readme widgets are too seperated and you need to add 4 different widgets with all different styles to show your GitHub statistics. **_Reimagined Readme_** tries to fix this problem by giving a layout to your readme that does not trigger OCD.
 
-Forked from [PressJump/reimaginedreadme](https://github.com/PressJump/reimaginedreadme)
+Forked from [PressJump/reimaginedreadme](https://github.com/PressJump/reimaginedreadme)  
+The project owner is discontinuing support for it, so I deployed it to my Vercel and removed the “deprecation” badge.
 
 </div>
 
