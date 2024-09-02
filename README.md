@@ -6,11 +6,13 @@
 
 GitHub readme widgets are too seperated and you need to add 4 different widgets with all different styles to show your GitHub statistics. **_Reimagined Readme_** tries to fix this problem by giving a layout to your readme that does not trigger OCD.
 
+Forked from [PressJump/reimaginedreadme](https://github.com/PressJump/reimaginedreadme)
+
 </div>
 
 ### Example Widget:
 
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/pressjump?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme)
+[![reimaginedreadme](https://reimaginedreadme-lilac.vercel.app/api/embed/lukasandreano?panels=userstatistics,toprepositories,toplanguages,commitgraph)]([https://github.com/PressJump/reimaginedreadme])
 
 ## How to install
 
@@ -18,7 +20,7 @@ To create a custom widget we have a API route `https://reimaginedreadme-lilac.ve
 
 #### Adding Widgets (Populating your Widget)
 
-To populate your widget with your contribution stats, top repositories, or your commit graph you need to define which panels should be in the widget so you customize your own widget to your liking. We can do this through adding the url parameter panels `https://myreadme.vercel.app/api/embed/YOURNAME?panels=`. The order you put the panels is important as they will be reordered dependent on their size.
+To populate your widget with your contribution stats, top repositories, or your commit graph you need to define which panels should be in the widget so you customize your own widget to your liking. We can do this through adding the url parameter panels `https://reimaginedreadme-lilac.vercel.app/api/embed/YOURNAME?panels=`. The order you put the panels is important as they will be reordered dependent on their size.
 
 #### Valid Panels Include
 
